@@ -1,8 +1,8 @@
 {
-  "baseURL": "https://hello.world",
-  "author": "hello.world",
-  "description": "hello.world - Venture Capital",
-  "title": "hello.world - Venture Capital",
+  "baseURL": "https://matz-11ty.netlify.app/",
+  "author": "Azubaz",
+  "description": "matz-11ty - herpaderp",
+  "title": "matz-11ty - herpaderp",
   "language": "en",
   "social": [
     {
